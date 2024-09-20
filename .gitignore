@@ -3,10 +3,10 @@
 .terraform
 *.tfstate*
 *secrets.tfvars
-.env
+# .env
 .env.production
-.env.development
-.env.test
+# .env.development
+# .env.test
 
 tmp/*
 node_modules/
